@@ -1,1 +1,1 @@
-print ('Haii')
+print ('Hai')
